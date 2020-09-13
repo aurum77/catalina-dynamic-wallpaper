@@ -178,4 +178,10 @@
 <to>/usr/share/backgrounds/catalina/23.jpg</to>
 </transition>
 
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/catalina/23.jpg</from>
+<to>/usr/share/backgrounds/catalina/00.jpg</to>
+</transition>
+
 </background>
