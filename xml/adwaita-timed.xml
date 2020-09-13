@@ -12,6 +12,7 @@
 
 <!-- We start with sunrise at 7 AM. It will remain up for 1 hour. -->
 <static>
+<!-- The duration is measured in seconds -->	
 <duration>3600.0</duration>
 <file>/usr/share/backgrounds/gnome/adwaita-morning.jpg</file>
 </static>
