@@ -1,9 +1,9 @@
 ## Catalina Dynamic Wallpaper
 
-Simple, time-based, macOS style dynamic wallpaper that transitions between the dark and light versions of macOS Catalina's default wallpapers. It also sets the lock screen background to the same image as the desktop background for a consistent look. Designed to be used with [KDEasyMc](https://github.com/caglarturali/KDEasyMc).
+Simple, time-based, macOS style dynamic wallpaper that transitions between the dark and light versions of macOS Catalina's default wallpapers.
 
 ### Screenshot
-
+TODO: Add gnome version of this gif if possible
 ![](screenshots/screenshot.gif)
 
 ### Installation
@@ -16,23 +16,11 @@ Simple, time-based, macOS style dynamic wallpaper that transitions between the d
   ```
 
 - Install.
-  - `./install --kde` or `-k` on KDE Plasma 5
-  - `./install --dde` or `-d` on DDE
+TODO: Add new installation instructions
 
 ### Usage
 
-You can control the wallpaper through control script. `~/bin/catalina` **[OPTIONS...]**
-
-| OPTIONS:        |                                                         |
-| :-------------- | :------------------------------------------------------ |
-| -s, --start     | Start dynamic wallpaper.                                |
-| -p, --stop      | Stop dynamic wallpaper.                                 |
-| -u, --uninstall | Uninstall dynamic wallpaper. Removes all related files. |
-| -h, --help      | Show this help.                                         |
-
-### Notes
-
-- On DDE, it only sets the desktop background. You need to set the lock screen background manually, for now.
+Choose Catalina Wallpapers from GNOME settings
 
 ### Credits :blush:
 
