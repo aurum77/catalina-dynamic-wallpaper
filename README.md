@@ -3,8 +3,8 @@
 Simple, time-based, macOS style dynamic wallpaper that transitions between the dark and light versions of macOS Catalina's default wallpapers.
 
 ### Screenshot
-TODO: Add gnome version of this gif if possible
-![](screenshots/screenshot.gif)
+TODO: Add gnome version of this gif
+![](screenshots/catalina.gif)
 
 ### Installation
 
