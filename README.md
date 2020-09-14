@@ -15,8 +15,12 @@ Simple, time-based, macOS style dynamic wallpaper that transitions between the d
   cd catalina-dynamic-wallpaper
   ```
 
-- Install.
-TODO: Add new installation instructions
+- Move the directory
+
+   ```bash
+   cd catalina-dynamic-wallpaper
+   sudo mv ./catalina /usr/share/backgrounds/
+   ```
 
 ### Usage
 
