@@ -20,7 +20,7 @@ TODO: Add new installation instructions
 
 ### Usage
 
-Choose Catalina Wallpapers from GNOME settings
+Choose the .xml file from GNOME tweaks
 
 ### Credits :blush:
 
