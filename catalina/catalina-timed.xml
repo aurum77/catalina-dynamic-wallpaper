@@ -11,177 +11,178 @@
 <wallpapers>
  <wallpaper deleted="false">
    <name>Catalina Dynamic Wallpapers</name>
-   <filename>/usr/share/backgrounds/catalina/catalina-timed.xml</filename>
+   <filename>/home/username/.catalina/catalina-timed.xml</filename>
    <options>zoom</options>
  </wallpaper>
 </wallpapers>
 
+<!-- DON'T FORGET TO REPLACE YOUR USERNAME-->
 <!-- This animation will start at midnight. -->
-<!-- /usr/share/backgrounds/catalina/ -->
-<!-- The duration is measured in seconds and we have 24 pictures, 3600 is equal to 1 hour-->
+<!-- /home/username/.catalina/ -->
+<!-- The duration is measured in seconds and we have 24 photos, 3600 is equal to 1 hour-->
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/00.jpg</from>
-<to>/usr/share/backgrounds/catalina/01.jpg</to>
+<from>/home/username/.catalina/00.jpg</from>
+<to>/home/username/.catalina/01.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/01.jpg</from>
-<to>/usr/share/backgrounds/catalina/02.jpg</to>
+<from>/home/username/.catalina/01.jpg</from>
+<to>/home/username/.catalina/02.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/02.jpg</from>
-<to>/usr/share/backgrounds/catalina/03.jpg</to>
+<from>/home/username/.catalina/02.jpg</from>
+<to>/home/username/.catalina/03.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/03.jpg</from>
-<to>/usr/share/backgrounds/catalina/04.jpg</to>
+<from>/home/username/.catalina/03.jpg</from>
+<to>/home/username/.catalina/04.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/04.jpg</from>
-<to>/usr/share/backgrounds/catalina/05.jpg</to>
+<from>/home/username/.catalina/04.jpg</from>
+<to>/home/username/.catalina/05.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/05.jpg</from>
-<to>/usr/share/backgrounds/catalina/06.jpg</to>
+<from>/home/username/.catalina/05.jpg</from>
+<to>/home/username/.catalina/06.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/06.jpg</from>
-<to>/usr/share/backgrounds/catalina/07.jpg</to>
+<from>/home/username/.catalina/06.jpg</from>
+<to>/home/username/.catalina/07.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/07.jpg</from>
-<to>/usr/share/backgrounds/catalina/08.jpg</to>
+<from>/home/username/.catalina/07.jpg</from>
+<to>/home/username/.catalina/08.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/08.jpg</from>
-<to>/usr/share/backgrounds/catalina/09.jpg</to>
+<from>/home/username/.catalina/08.jpg</from>
+<to>/home/username/.catalina/09.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/09.jpg</from>
-<to>/usr/share/backgrounds/catalina/10.jpg</to>
+<from>/home/username/.catalina/09.jpg</from>
+<to>/home/username/.catalina/10.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/10.jpg</from>
-<to>/usr/share/backgrounds/catalina/11.jpg</to>
+<from>/home/username/.catalina/10.jpg</from>
+<to>/home/username/.catalina/11.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/11.jpg</from>
-<to>/usr/share/backgrounds/catalina/12.jpg</to>
+<from>/home/username/.catalina/11.jpg</from>
+<to>/home/username/.catalina/12.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/12.jpg</from>
-<to>/usr/share/backgrounds/catalina/13.jpg</to>
+<from>/home/username/.catalina/12.jpg</from>
+<to>/home/username/.catalina/13.jpg</to>
 </transition>
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/13.jpg</from>
-<to>/usr/share/backgrounds/catalina/14.jpg</to>
-</transition>
-
-
-<transition type="overlay">
-<duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/14.jpg</from>
-<to>/usr/share/backgrounds/catalina/15.jpg</to>
+<from>/home/username/.catalina/13.jpg</from>
+<to>/home/username/.catalina/14.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/15.jpg</from>
-<to>/usr/share/backgrounds/catalina/16.jpg</to>
+<from>/home/username/.catalina/14.jpg</from>
+<to>/home/username/.catalina/15.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/16.jpg</from>
-<to>/usr/share/backgrounds/catalina/17.jpg</to>
+<from>/home/username/.catalina/15.jpg</from>
+<to>/home/username/.catalina/16.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/17.jpg</from>
-<to>/usr/share/backgrounds/catalina/18.jpg</to>
+<from>/home/username/.catalina/16.jpg</from>
+<to>/home/username/.catalina/17.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/18.jpg</from>
-<to>/usr/share/backgrounds/catalina/19.jpg</to>
+<from>/home/username/.catalina/17.jpg</from>
+<to>/home/username/.catalina/18.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/19.jpg</from>
-<to>/usr/share/backgrounds/catalina/20.jpg</to>
+<from>/home/username/.catalina/18.jpg</from>
+<to>/home/username/.catalina/19.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/20.jpg</from>
-<to>/usr/share/backgrounds/catalina/21.jpg</to>
+<from>/home/username/.catalina/19.jpg</from>
+<to>/home/username/.catalina/20.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/21.jpg</from>
-<to>/usr/share/backgrounds/catalina/22.jpg</to>
+<from>/home/username/.catalina/20.jpg</from>
+<to>/home/username/.catalina/21.jpg</to>
 </transition>
 
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/22.jpg</from>
-<to>/usr/share/backgrounds/catalina/23.jpg</to>
+<from>/home/username/.catalina/21.jpg</from>
+<to>/home/username/.catalina/22.jpg</to>
+</transition>
+
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/home/username/.catalina/22.jpg</from>
+<to>/home/username/.catalina/23.jpg</to>
 </transition>
 
 <transition type="overlay">
 <duration>3600.0</duration>
-<from>/usr/share/backgrounds/catalina/23.jpg</from>
-<to>/usr/share/backgrounds/catalina/00.jpg</to>
+<from>/home/username/.catalina/23.jpg</from>
+<to>/home/username/.catalina/00.jpg</to>
 </transition>
 
 </background>
