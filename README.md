@@ -15,16 +15,21 @@ Simple, time-based, macOS style dynamic wallpaper that transitions between the d
   cd catalina-dynamic-wallpaper
   ```
 
-- Move the directory
+- Move the directory to your home and hide it with a "."
 
    ```bash
    cd catalina-dynamic-wallpaper
-   sudo mv ./catalina /usr/share/backgrounds/
+   mv ./catalina ~/.catalina
    ```
+- Rename the "username" in the XML to your own username in vim).
 
-### Usage
+- In vim execute this command to the username word in every occurence.
 
-Choose the .xml file from GNOME tweaks
+  ```bash
+  :%s/username/<WRITE_USERNAME_HERE>/g
+  :wq
+  ```
+- Choose the .xml file from GNOME tweaks
 
 ### Credits :blush:
 
