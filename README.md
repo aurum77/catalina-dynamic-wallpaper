@@ -21,7 +21,7 @@ Simple, time-based, macOS style dynamic wallpaper that transitions between the d
    cd catalina-dynamic-wallpaper
    mv ./catalina ~/.catalina
    ```
-- Rename the "username" in the XML to your own username in vim).
+- Rename the "username" in the XML to your own username in vim.
 
 - In vim execute this command to the username word in every occurence.
 
