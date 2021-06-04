@@ -11,11 +11,11 @@ Simple, time-based, macOS style dynamic wallpaper that transitions between the d
 - Clone the repo.
 
   ```bash
-  git clone https://github.com/caglarturali/catalina-dynamic-wallpaper.git
+  git clone https://github.com/aurum77/catalina-dynamic-wallpaper.git
   cd catalina-dynamic-wallpaper
   ```
 
-- Move the directory to your home and hide it with a "."
+- Move the directory to your home and preferably hide it with a "."
 
    ```bash
    cd catalina-dynamic-wallpaper
